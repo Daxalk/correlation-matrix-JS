@@ -1,0 +1,21 @@
+{
+  "name": "correlation-matrix",
+  "version": "1.0.0",
+  "description": "JavaScript library for calculating correlation matrices",
+  "main": "correlation-matrix.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daxalk/correlation-matrix-JS.git"
+  },
+  "keywords": [
+    "correlation",
+    "matrix",
+    "statistics"
+  ],
+  "author": "Daxalk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daxalk/correlation-matrix-JS/issues"
+  },
+  "homepage": "https://github.com/Daxalk/correlation-matrix-JS#readme"
+}
